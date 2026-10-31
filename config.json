@@ -1,0 +1,103 @@
+{
+  "code": "CWNU-NAMHAE",
+  "title": "SMASH CWNU NAMHAE",
+  "school": "창원대",
+  "fullName": "국립창원대학교",
+  "campusName": "국립창원대학교 남해캠퍼스",
+  "tagline": "창원대를 부셔 (시험기간 스트레스 해소)",
+  "description": "국립창원대학교 남해캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 국립창원대학교 남해캠퍼스 3D 화면과 SMASH CWNU NAMHAE 제목",
+  "url": "https://hong-iron.github.io/SMASH-CWNU-NAMHAE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1494587225
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        34.8370015,
+        127.8962973
+      ],
+      "n": "1동",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 서쪽 비탈에 걸친 북변리 74번지 대지의 1987년 단독주택 기록이며, 주인 이름에 학교가 없고 사진에도 나무 덮인 비탈만 보인다."
+    },
+    {
+      "at": [
+        34.8372104,
+        127.8969264
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 사진에서 이 자리는 차가 줄지어 선 주차장일 뿐 지붕 있는 건물이 없다."
+    },
+    {
+      "at": [
+        34.836482,
+        127.8967456
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 사진에서 이 자리는 태양광 지붕 주차장 위쪽 화단과 나무뿐이고 건물이 없다."
+    }
+  ],
+  "look": {
+    "본관동": {
+      "style": "stone",
+      "wall": "#b3b8c3",
+      "glass": "#5f8a96",
+      "frame": "#c5a29c"
+    },
+    "2호관(해양관광관)": {
+      "style": "brick",
+      "wall": "#a76455",
+      "glass": "#5d6b73",
+      "frame": "#f3f5f8"
+    },
+    "3호관(해양공학관)": {
+      "style": "brick",
+      "wall": "#875556",
+      "glass": "#4f6577",
+      "frame": "#ead9d6"
+    },
+    "4호관(조리과학관)": {
+      "style": "concrete",
+      "wall": "#b9b7b5",
+      "glass": "#868482",
+      "frame": "#7a94a4"
+    },
+    "5호관(제1기숙사)": {
+      "style": "brick",
+      "wall": "#c4a694",
+      "glass": "#5d6b73",
+      "frame": "#e6e6e2"
+    },
+    "6호관(제2기숙사)": {
+      "style": "brick",
+      "wall": "#e0b8ab",
+      "glass": "#5d6b73",
+      "frame": "#eeeeec",
+      "roof": "#b7b6ca",
+      "hip": true
+    },
+    "9호관(학생회관)": {
+      "style": "stone",
+      "wall": "#bdbbb2",
+      "glass": "#5a7675",
+      "frame": "#c3cbd3"
+    },
+    "10호관(송죽관)": {
+      "style": "brick",
+      "wall": "#b79986",
+      "glass": "#364747",
+      "frame": "#d39a7c"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
